@@ -1,4 +1,4 @@
-# Project Ahmad Faisal IoT
+# Project IoT
 
 # 📘 **Sistem Monitoring & Kontrol PLTS Offgrid 50 Wp Berbasis IoT (Blynk & ESP8266)**
 
