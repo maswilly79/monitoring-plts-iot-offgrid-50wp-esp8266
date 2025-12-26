@@ -7,7 +7,7 @@
    Versi: 1.5.0 | Desember 2025 | Mas Willy
 *************************************************************/
 
-#define BLYNK_TEMPLATE_ID   "TMPL6x7si7P-L"
+#define BLYNK_TEMPLATE_ID   "*********"
 #define BLYNK_TEMPLATE_NAME "Sistem Monitoring PLTS 50 WP OFF Grid"
 #define BLYNK_FIRMWARE_VERSION "1.5.0"
 #define BLYNK_PRINT Serial
